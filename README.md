@@ -24,3 +24,5 @@ Decision Tree) both binary and multi class and we have tried to improve the clas
 by integrating sentiment and emotions features. Finally, we developed LSTM and BERT to have an
 exhaustive overview on the classification task with models specifically suited for NLP.
 
+
+
